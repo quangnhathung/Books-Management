@@ -1,0 +1,30 @@
+TTVN01,De men phieu luu ky,To Hoai,Kim Dong,1941,Tieu thuyet
+HCNN01,To kill a Mockingbird,Harper Lee,J.B. Lippincott & Co,1960,Hu cau
+VTNN01,"1984",George Orwell,Secker & Warburg,1949,Vien tuong
+TTVN02,Toi thay hoa vang tren co xanh,Nguyen Nhat Anh,Tre,2010,Tieu Thuyet
+HCNN02,The Great Gatsby,F.Scott Fitzgerald,Charles Scribner's Sons,1925,Hu cau
+TCNN01,Em se den cung con mua,Ichikawa Takuji,Shogakukan,2023,Tinh cam
+TCNN02,Pride and Prejudice,Jane Austen,T. Egerton & Whitehall,1813,Tinh cam
+TCNN03,Tenki no ko,Shinkai Makoto,CoMix Wave Films,2020,Tinh cam
+TKVN03,Hoc LAP TRINH c++,quang nhat hung, kim dong, 2005,Tham khao
+HCNN09,The Catcher in the Rye,Salinger,Little-Brown and Company,1951,Hu cau
+TTVN03,De men phieu luu ky,To Hoai,Kim Dong,1941,Tieu thuyet
+HCNN03,To kill a Mockingbird,Harper Lee,J.B. Lippincott & Co,1960,Hu cau
+VTNN02,"1984",George Orwell,Secker & Warburg,1949,Vien tuong
+TTVN04,Toi thay hoa vang tren co xanh,Nguyen Nhat Anh,Tre,2010,Tieu Thuyet
+HCNN04,The Great Gatsby,F.Scott Fitzgerald,Charles Scribner's Sons,1925,Hu cau
+TCNB01,Em se den cung con mua,Ichikawa Takuji,Shogakukan,2023,Tinh cam
+TCNN04,Pride and Prejudice,Jane Austen,T. Egerton & Whitehall,1813,Tinh cam
+TCNN05,Tenki no ko,Shinkai Makoto,CoMix Wave Films,2020,Tinh cam
+HCNN05,The Catcher in the Rye,Salinger,Little-Brown and Company,1951,Hu cau
+TTVN05,De men phieu luu ky,To Hoai,Kim Dong,1941,Tieu thuyet
+TKVN02,Thich lap trinh,quang nhat hung, kim dong, 2021,Tham khao
+HCNN06,To kill a Mockingbird,Harper Lee,J.B. Lippincott & Co,1960,Hu cau
+VTNN03,"1984",George Orwell,Secker & Warburg,1949,Vien tuong
+TTVN06,Toi thay hoa vang tren co xanh,Nguyen Nhat Anh,Tre,2010,Tieu Thuyet
+HCNN07,The Great Gatsby,F.Scott Fitzgerald,Charles Scribner's Sons,1925,Hu cau
+TCNN06,Em se den cung con mua,Ichikawa Takuji,Shogakukan,2023,Tinh cam
+TCNN07,Pride and Prejudice,Jane Austen,T. Egerton & Whitehall,1813,Tinh cam
+TCNN08,Tenki no ko,Shinkai Makoto,CoMix Wave Films,2020,Tinh cam
+HCNN08,The Catcher in the Rye,Salinger,Little-Brown and Company,1951,Hu cau
+TKVN01,Lap trinh hay hay,quang nhat hung, kim dong, 2024,Tham khao
