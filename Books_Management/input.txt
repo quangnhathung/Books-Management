@@ -1,30 +1,100 @@
-TTVN01,De men phieu luu ky,To Hoai,Kim Dong,1941,Tieu thuyet
-HCNN01,To kill a Mockingbird,Harper Lee,J.B. Lippincott & Co,1960,Hu cau
-VTNN01,"1984",George Orwell,Secker & Warburg,1949,Vien tuong
-TTVN02,Toi thay hoa vang tren co xanh,Nguyen Nhat Anh,Tre,2010,Tieu Thuyet
-HCNN02,The Great Gatsby,F.Scott Fitzgerald,Charles Scribner's Sons,1925,Hu cau
-TCNN01,Em se den cung con mua,Ichikawa Takuji,Shogakukan,2023,Tinh cam
-TCNN02,Pride and Prejudice,Jane Austen,T. Egerton & Whitehall,1813,Tinh cam
-TCNN03,Tenki no ko,Shinkai Makoto,CoMix Wave Films,2020,Tinh cam
-TKVN03,Hoc LAP TRINH c++,quang nhat hung, kim dong, 2005,Tham khao
-HCNN09,The Catcher in the Rye,Salinger,Little-Brown and Company,1951,Hu cau
-TTVN03,De men phieu luu ky,To Hoai,Kim Dong,1941,Tieu thuyet
-HCNN03,To kill a Mockingbird,Harper Lee,J.B. Lippincott & Co,1960,Hu cau
-VTNN02,"1984",George Orwell,Secker & Warburg,1949,Vien tuong
-TTVN04,Toi thay hoa vang tren co xanh,Nguyen Nhat Anh,Tre,2010,Tieu Thuyet
-HCNN04,The Great Gatsby,F.Scott Fitzgerald,Charles Scribner's Sons,1925,Hu cau
-TCNB01,Em se den cung con mua,Ichikawa Takuji,Shogakukan,2023,Tinh cam
-TCNN04,Pride and Prejudice,Jane Austen,T. Egerton & Whitehall,1813,Tinh cam
-TCNN05,Tenki no ko,Shinkai Makoto,CoMix Wave Films,2020,Tinh cam
-HCNN05,The Catcher in the Rye,Salinger,Little-Brown and Company,1951,Hu cau
-TTVN05,De men phieu luu ky,To Hoai,Kim Dong,1941,Tieu thuyet
-TKVN02,Thich lap trinh,quang nhat hung, kim dong, 2021,Tham khao
-HCNN06,To kill a Mockingbird,Harper Lee,J.B. Lippincott & Co,1960,Hu cau
-VTNN03,"1984",George Orwell,Secker & Warburg,1949,Vien tuong
-TTVN06,Toi thay hoa vang tren co xanh,Nguyen Nhat Anh,Tre,2010,Tieu Thuyet
-HCNN07,The Great Gatsby,F.Scott Fitzgerald,Charles Scribner's Sons,1925,Hu cau
-TCNN06,Em se den cung con mua,Ichikawa Takuji,Shogakukan,2023,Tinh cam
-TCNN07,Pride and Prejudice,Jane Austen,T. Egerton & Whitehall,1813,Tinh cam
-TCNN08,Tenki no ko,Shinkai Makoto,CoMix Wave Films,2020,Tinh cam
-HCNN08,The Catcher in the Rye,Salinger,Little-Brown and Company,1951,Hu cau
-TKVN01,Lap trinh hay hay,quang nhat hung, kim dong, 2024,Tham khao
+MS095,Cho toi xin mot ve tuoi tho,Nguyen Nhat Anh,Kim dong,2008,Thieu nhi
+MS002,To Kill a Mockingbird,Harper Lee,J. B. Lippincott & Co.,1960,Tieu thuyet
+MS003,"1984",George Orwell,Secker & Warburg,1949,Chinh tri
+MS004,The Great Gatsby,F.Scott Fierald,Charles Scribner's Sons,1925,Tieu thuyet
+MS005,Pride and Prejudice,Jane Austen,T.Egerton and Whitehall,1813,Tinh cam
+MS006,The Catcher in the Rye,J.D. Salinger,Brown and Company,1951,Tieu thuyet
+MS007,The Lord of the Rings,J.R.R. Tolkien,George Allen & Unwin,1954,Hu cau
+MS008,The Hobbit,J.R.R. Tolkien,Allen & Unwin,1937,Hu cau
+MS009,The Chronicles of Narnia,C.S. Lewis,Geoffrey Bles,1950,Hu cau
+MS010,Brave New World,Aldous Huxley,Chatto & Windus,1932,Hu cau
+MS011,The Hunger Games,Suzanne Collins,Scholastic Corporation,2008,Tieu thuyet
+MS012,Animal Farm,George Orwell,Secker & Warburg,1945,Tham khao
+MS013,Fahrenheit 451,Ray Bradbury,Ballantine Books,1953,Hu cau
+MS014,The Da Vinci Code,Dan Brown,Doubleday,2003,Huyen bi
+MS015,The Alchemist,Paulo Coelho,HarperTorch,1988,Tieu Thuyet
+MS016,Gone with the Wind,Margaret Mitchell,Macmillan Publishers,1936,Lich su
+MS017,The Shining,Stephen King,Doubleday,1977,Kinh di
+MS018,The Road,Cormac McCarthy,Alfred A. Knopf,2006,Huyen bi
+MS019,Don Quixote,Miguel Cervantes,Francisco Robles,1605,Tieu thuyet
+MS020,Wuthering Heights,Emily Bronte,Thomas Cautley Newby,1847,Tinh cam
+MS021,The Adventures of Tom Sawyer,Mark Twain,Chatto & Windus,1876,Tieu thuyet
+MS022,A Song of Ice and Fire,George R.Martin,Bantam Books,1996,Tinh cam
+MS023,The Canterbury Tales,Geoffrey Chaucer,Various printers,1400,Tham khao
+MS024,Les Miserables,Victor Hugo,Verboeckhoven & Cie,1862,Tieu thuyet
+MS025,Alice's Adventures in Wonderland,Lewis Carroll,Macmillan Publishers,1865,Hu cau
+MS026,War and Peace,Leo Tolstoy,The Russian Messenger,1869,Lich su
+MS027,The Picture of Dorian Gray,Oscar Wilde,Lock and Company,1890,Kinh di
+MS028,The Little Prince,Antoine deSaint,Reynal & Cock,1943,Tieu thuyet
+MS029,Charlotte's Web,E.B. White,Harper & Brothers,1952,Thieu nhi
+MS030,The Grapes of Wrath,John Steinbeck,Viking Press,1939,Lich su
+MS031,The Bell Jar,Sylvia Plath,Heinemann,1963,Tieu thuyet
+MS032,A Tale of Two Cities,Charles Dickens,Chapman & Hall,1859,Lich su
+MS033,OneHundred Yrs of Solitude,Gabriel Garcia,Editorial Sudamericana,1967,Van hoc
+MS034,The Divine Comedy,Dante Alighieri,Folengo Giolito de' Ferrari,1472,Van hoc
+MS035,The Outsiders,S.E. Hinton,Viking Press,1967,Thieu nhi
+MS036,Twilight,Little,Brown and Company,2005,Tieu thuyet
+MS037,Hitchhiker's Guide to the Galaxy,Douglas Adams,Pan Books,1978,Hu cau
+MS038,The Secret Garden,Frances Burnett,Frederick Warne & Co.,1911,Thieu nhi
+MS039,The Old Man and the Sea,Ernest Hemingway,Charles Scribner's Sons,1952,Lich su
+MS040,Green Eggs and Ham,Dr. Seuss,Random House,1960,Thieu nhi
+MS041,The Odyssey,Homer,Various printers,1823,Lich su
+MS042,The Metamorphosis,Franz Kafka,Kurt Wolff Verlag,1915,Kinh di
+MS043,A Clockwork Orange,Anthony Burgess,William Heinemann,1962,Chinh tri
+MS044,The Road Not Taken,Robert Frost,Henry Holt and Company,1916,Tho
+MS045,The Sun Also Rises,Ernest Hemingway,Scribner's,1926,Tieu thuyet
+MS046,The Scarlet Letter,Nathan Thorne,Reed and Fields,1850,Lang man
+MS047,The Iliad,Homer,Various printers,1760,Lich su
+MS048,The Count of Monte Cristo,Alexandre Dumas,Ponson du Terrail,1844,Lich su
+MS049,Beloved,Toni Morrison,Alfred A. Knopf,1987,Tieu thuyet
+MS050,Anne of Green Gables,Lucy Monry,L.C. Page & Co.,1908,Thieu nhi
+MS091,OOP LAP TRINH,Hoang Nguyen,Tuoi tre,2018,Tham khao.
+MS052,The Handmaid's Tale,Margaret Atwood,McClelland and Stewart,1985,Chinh tri
+MS053,A Christmas Carol,Charles Dickens,Chapman & Hall,1843,Thieu nhi
+MS054,The Adventures,Mark Twain,Charles L. Webster And Company,1884,Tieu thuyet
+MS055,The Divine Secrets,Rebecca Wells,HarperCollins,1996,Tinh cam
+MS056,The Hitchhiker's Guide,Douglas Adams,Pan Books,1979,Hu cau
+MS057,The Girl with the Dragon Tattoo,Stieg Larsson,Norstedts forlag,2005,Huyen bi
+MS058,The Kite Runner,Khaled Hosseini,Riverhead Books,2003,Tieu thuyet
+MS097,lap trinh python,Quang Nhat Hung,Lao dong,2020,Tham khao
+MS060,The Help,Kathryn Stockett,Penguin Group,2009,Lich su
+MS061,The Pillars of the Earth,Ken Follett,Macmillan Publishers,1989,Lich su
+MS062,The Color Purple,Alice Walker,Harcourt Brace Jovanovich,1982,Tieu thuyet
+MS063,The Secret Life of Bees,Sue Monk Kidd,Viking Press,2001,Chinh tri
+MS064,The Fault in Our Stars,John Green,Dutton Books,2012,Tinh cam
+MS065,The Giver,Lois Lowry,Houghton Mifflin,1993,Hu cau
+MS066,The Girl on the Train,Paula Hawkins,Doubleday,2015,Huyen bi
+MS067,The Handmaid's Tale,Margaret Atwood,McClelland and Stewart,1985,Chinh tri
+MS068,The Help,Kathryn Stockett,Penguin Group,2009,Lich su
+MS069,The Lovely Bones,Alice Sebold,Brown and Company,2002,Kinh di
+MS070,The Maze Runner,James Dashner,Delacorte Press,2009,Hu cau
+MS071,The Notebook,Nicholas Sparks,Warner Books,1996,Tinh cam
+MS089,De men phieu luu ky,To Hoai,Kim dong,1987,Thieu nhi
+MS072,The Road,Cormac McCarthy,Alfred A. Knopf,2006,Huyen bi
+MS073,The Secret Life of Bees,Sue Monk Kidd,Viking Press,2001,Chinh tri
+MS074,The Shining,Stephen King,Doubleday,1977,Kinh di
+MS075,The Time Traveler's Wife,Audrey Niffenegger,MacAdam/Cage,2003,Hu cau
+MS059,The Adventures of Holmes,Arthur Doyle,George Newnes,1892,Huyen bi
+MS077,The Very Hungry Caterpillar,Eric Carle,World Publishing Company,1969,Thieu nhi
+MS078,Thirteen Reasons Why,Jay Asher,RazorBill,2007,Tieu thuyet
+MS079,"Kill",Harper,Lippincott & Co.,1960,Tieu thuyet
+MS080,The Narnia,Lewis,Geoles,1950,Huyen bi
+MS081,The Great Gatsby,Scott Fitzgerald,Charles Scribner's Sons,1925,Tieu thuyet
+MS082,1984,George Orwell,Secker & Warburg,1949,Chinh tri
+MS083,Pride and Prejudice,Jane Austen,Whitehall,1813,Tinh cam
+MS084,Harry Potter,J.K. Rowling,Blury,1990,Huyen bi
+MS085,Lap trinh C++,Quang Nhat Hung,Kim Dong,1951,Tieu thuyet
+MS086,TenKi No ko,Shinkai Makoto,Kodansha,2019,Tinh cam
+MS087,Em se den cung con mua,Ichikama Takuji,Van hoc,2022,Tinh cam
+MS088,Lap trinh a-z,Hoang nguyen,Kim dong,2024,Tham khao
+MS076,The Twilight Saga,Stephenie Meyer,Brown and Company,2005,Tinh cam
+MS090,Toi thay hoa vang tren co xanh,Nguyen Nhat Anh,Tuoi tre,2010,Hu cau
+MS051,The Complete Works,William Shakespeare,Edward Blount,1623,Tieu thuyet
+MS092,5cm/s,Shinkai Makoto,Enterbrain,2007,Tinh cam
+MS093,Nha gia kim,Paulo Coelho,Hoi nha van,2013,Tieu thuyet
+MS094,Tuoi tre dang gia bao nhieu?,Rosie Nguyen,Tuoi tre,2016,Tham khao
+MS096,Your Name,Shinkai Makoto,Enterbrain,2016,Tinh cam
+MS001,Harry Potter va Hon da Phu thuy,J.K. Rowling,Bloomsbury,1997,Tieu thuyet
+MS098,Ba ngay hanh phuc,Miaki Sugaru,Shueisha,2013,Tieu thuyet
+MS099,Norwegian Wood,Haruki Murakami,Kodansha,1987,Tieu thuyet
+MS100,"1Q84",Haruki Murakami,Shinchosha,2009,Huyen bi
