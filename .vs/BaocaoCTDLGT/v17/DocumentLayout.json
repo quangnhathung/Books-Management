@@ -10,7 +10,7 @@
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 149,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "Books_Management\\Books_Management.cpp",
               "ToolTip": "D:\\vs\\CTDL\u0026GT\\BaocaoCTDLGT\\Books_Management\\Books_Management.cpp",
               "RelativeToolTip": "Books_Management\\Books_Management.cpp",
-              "ViewState": "AQIAAHoBAAAAAAAAAAAAAOMAAAAaAAAA",
+              "ViewState": "AQIAAJUAAAAAAAAAAAAlwI4AAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-28T04:50:15.733Z",
               "EditorCaption": ""

@@ -533,7 +533,7 @@ int main() {
 				cin >> n;
 				cin.ignore();
 				for (int i = 0; i < n; i++) {
-					cout << "Sach thu " << i + 1;
+					cout << "Sach thu " << i + 1<<endl;
 					Sach x = InputFromKeyboard();
 					Add_Tail(dl, CreateDnode(x));
 				}
